@@ -1,0 +1,6 @@
+{
+  "name": "Descifra.cl",
+  "description": "Toda la actualidad a un click: periodismo explicativo, colorido e interactivo sobre economía, sociedad y contingencia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
